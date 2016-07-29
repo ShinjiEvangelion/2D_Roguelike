@@ -180,7 +180,7 @@ namespace Completed
 
 			//Subtract lost food points from the players total.
 			food -= loss;
-			foodText.text = "-"  + food;
+			foodText.text = "-" + loss;
 
 
 
